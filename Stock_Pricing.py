@@ -6,7 +6,7 @@ print(data['Date'][0:2])
 
 print(data.shape)
 print(data.size)
-#print(data.describe())
+print(data.describe())
 
 
 
